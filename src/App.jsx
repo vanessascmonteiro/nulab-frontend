@@ -6,6 +6,7 @@ function App() {
   return (
     <header>
       <img src={logo} alt="Banco NuLab" />
+      <img src={logo} alt="Banco NuLab" />
     </header>
   );
 }
